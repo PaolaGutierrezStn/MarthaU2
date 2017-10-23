@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+
+
+
+
+
+<product>
+<id>PRD00002</id>
+<name>J</name>
+<units>6</units>
+<price>5</price>
+<type>G</type>
+</product>
+<product>
+<id>PRD00003</id>
+<name>GGH</name>
+<units>66</units>
+<price>67</price>
+<type>3</type>
+</product>
+
+
+
+</products>
